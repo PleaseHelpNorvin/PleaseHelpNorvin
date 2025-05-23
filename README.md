@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PleaseHelpNorvin
-- 👀 I’m interested in learning stacks related to android development
+- 👀 I’m interested in learning stacks related to Android development
 - 🌱 I’m currently learning Flutter, Laravel, Angular
 - 📫 How to reach me ...
 - 😄 Pronouns: straight male
